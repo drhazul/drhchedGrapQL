@@ -1,0 +1,18 @@
+# Node/TS
+node_modules
+*.log
+dist
+
+
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+build/
+.dart_tool/
+
+
+# Docker
+infra/.volumes/
